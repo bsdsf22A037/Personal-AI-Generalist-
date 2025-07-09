@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+praw
+transformers
+torch
+gTTS
+beautifulsoup4
+newspaper3k
+aiolimiter
+tenacity

@@ -5,6 +5,29 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
+pydantic = "*"
+fastapi = "*"
+dotenv = "*"
+praw = "*"
+python-dotenv = "*"
+requests = "*"
+beautifulsoup4 = "*"
+newspaper3k = "*"
+aiolimiter = "*"
+langgraph = "*"
+mcp = "*"
+langchain-mcp-adapters = "*"
+langchain-anthropic = "*"
+elevenlabs = "*"
+lxml = {version="*", extras=["html_clean"]}
+openai = "*"
+langchain = "*"
+langchain-openai = "*"
+gtts = "*"
+transformers = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 
